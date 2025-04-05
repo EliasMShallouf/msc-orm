@@ -1,0 +1,14 @@
+#
+#Sat Mar 15 02:10:42 AST 2025
+com.eliasshallouf.msc.seminar2.domain.model.CustomerDemographics=1741993842559
+com.eliasshallouf.msc.seminar2.domain.model.Shipper=1741993842566
+com.eliasshallouf.msc.seminar2.domain.model.Employee=1741993842561
+com.eliasshallouf.msc.seminar2.domain.model.OrderDetail=1741993842563
+com.eliasshallouf.msc.seminar2.domain.model.Region=1741993842565
+com.eliasshallouf.msc.seminar2.domain.model.Product=1741993842564
+com.eliasshallouf.msc.seminar2.domain.model.EmployeeTerritory=1741993842562
+com.eliasshallouf.msc.seminar2.domain.model.Territory=1741993842569
+com.eliasshallouf.msc.seminar2.domain.model.Customer=1741993842557
+com.eliasshallouf.msc.seminar2.domain.model.SalesOrder=1741993842566
+com.eliasshallouf.msc.seminar2.domain.model.Category=1741993842554
+com.eliasshallouf.msc.seminar2.domain.model.Supplier=1741993842568
